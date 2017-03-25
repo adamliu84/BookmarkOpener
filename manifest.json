@@ -1,0 +1,12 @@
+{
+  "name": "Bookmark Opener",
+  "version": "0.1",
+  "description": "Click icon to open defined urls in new tabs",
+  "permissions": [
+  ],
+  "browser_action": {
+    "default_popup": "BookmarkOpener.html",
+    "default_icon": "BookmarkOpener.png"
+  },
+  "manifest_version": 2
+}
